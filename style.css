@@ -1,0 +1,8 @@
+label
+{
+    width:20%;
+    text-align:start;
+}
+tbody,thead,td,th{
+    border:1px solid grey !important;
+}
